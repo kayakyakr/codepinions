@@ -1,25 +1,38 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-11-24 11:46:45 -0600
-categories: jekyll update
+title:  "Welcome to Codepinions"
+date:   2016-11-24 12:00:00 -0600
+categories: welcome update
+author: Charles
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+##Code and Opinion = Codepinions
 
-Jekyll also offers powerful support for code snippets:
+After all this time, I'm finally starting a blog. It's been a long time coming,
+sorry it's taken so long. This blog will be a platform to talk about coding: what's
+good, what's bad, what's silly. Maybe some viewpoints about programmer culture will
+get mixed in. We'll see where the night takes us. #letsgetweird
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+##Format
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Call me lazy, but the format of this blog will be as a mailbag. Yes, I'll rely on
+various readers to generate topics for me. Terrible, I know. Small posts may be
+combined into one, while larger subjects can get their own post all on their own.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Questions should be submitted as issues under Github. I really like Github. Submit
+those issues here: https://github.com/kayakyakr/codepinions/issues.
+
+##Open Source
+
+You can call me even lazier, but this blog is open source as well. Don't agree with
+my response? Mention that in the issue comments OR submit a PR with an amended
+answer. Want to write your own codepinion and let me take partial credit for it?
+Submit a PR with a post. It's totally a win-win scenario for both of us!
+
+##About the author
+
+Hi, my name is Charles DuBose. I program things, raise chickens, try to garden, and
+have opinions. My primary areas of expertise lie in full-stack development with Ruby,
+Javascript, and both SQL and document (Mongo, specifically) databases. But don't
+let that stop you from asking about anything else. Code is universal and so language
+doesn't matter.
