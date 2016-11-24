@@ -17,7 +17,7 @@ title: Codepinions
 email: charles@dubo.se
 description: > # this means to ignore newlines until "baseurl:"
   Code + Opinions = Codepinions. Code-oriented, mailbag driven blog. Submit
-  questions to https://github.com/kayakyakr/codepinions/issues
+  questions to <a href="https://github.com/kayakyakr/codepinions/issues">https://github.com/kayakyakr/codepinions/issues</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codepinions.dubo.se" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kayakyakr
