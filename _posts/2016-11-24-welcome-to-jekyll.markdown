@@ -6,7 +6,7 @@ categories: welcome update
 author: Charles
 ---
 
-# Code and Opinion = Codepinions
+## Code and Opinion = Codepinions
 
 After all this time, I'm finally starting a blog. It's been a long time coming,
 sorry it's taken so long. This blog will be a platform to talk about coding: what's
