@@ -4,9 +4,12 @@ title:  "Codepinions is Go"
 date:   2016-11-24 12:00:00 -0600
 categories: welcome update
 author: Charles
+description: >
+  Introduction to Codepinions, declaration of site purpose, and introduction to
+  open source blogging.
 ---
 
-## Code and Opinion = Codepinions
+## Code + Opinions = Codepinions
 
 After all this time, I'm finally starting a blog. It's been a long time coming,
 sorry it's taken so long. This blog will be a platform to talk about coding: what's
@@ -20,7 +23,7 @@ various readers to generate topics for me. Terrible, I know. Small posts may be
 combined into one, while larger subjects can get their own post all on their own.
 
 Questions should be submitted as issues under Github. I really like Github. Submit
-those issues here: https://github.com/kayakyakr/codepinions/issues.
+those issues here: [https://github.com/kayakyakr/codepinions/issues](https://github.com/kayakyakr/codepinions/issues).
 
 ## Open Source
 
