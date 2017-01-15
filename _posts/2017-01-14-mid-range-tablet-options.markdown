@@ -9,12 +9,12 @@ description: >
 ---
 
 This is a bit of a break in the subject matter for this blog, but I've been obsessing
-over the purchase of a replacement for my classic 2013 Nexus 7. Great little device
+over the purchase of a replacement for my classic 2013 Nexus 7. Great little device,
 but it's time by now.
 
 My use of a tablet has changed since I bought the 7. Back then, I was looking for a
-reader and something bigger than my phone at the time. Phone got bigger, tablet is
-less important now. So a more useful tablet would be one in the 10" range. Movies and
+reader and something bigger than my phone. Phone got bigger, so having a small tablet is
+less important now. A more useful tablet would be one in the 10" range for movies and
 games and whatnot.
 
 I'll make my purchase sometime before mid February, so the tablet will have to be
