@@ -128,24 +128,6 @@ Z10 claims a massive 20h.
 Current status: The Z10 seems like a great tablet, especially if you've got Verizon
 data to use. The 3S has beefy specs, but suffers from a poor battery.
 
-## On the horizon: Xiaomi Mi Pad 3
-
-[Specs](http://www.gsmarena.com/xiaomi_mi_pad_3-8477.php)
-
-In writing up this little post, I ran across a rumored device that very much intrigues
-me. It's a Windows tablet from Xiaomi, in the 9.7" form factor. There aren't many
-details beyond the spec sheet that leaked. It packs an m3 Kaby Lake processor, 8 GB
-RAM, plenty of room at 128 GB of SSD space, and a massive 8290 mAh battery. Compelling
-specs indeed, possibly a hint of what's intended for the future Surface 4. The
-kicker is rumored prices have ranged between $350 and $450 which would be the best
-price:value ratio available when it releases.
-
-Unfortunately, 2-3 rumored announcement and release dates have already come and gone.
-I don't expect to see it out before my deadline, but if it is, it would very quickly
-become my new focus.
-
-Current status: Just a rumor, but a compelling option if it launches in time.
-
 ## In conclusion
 
 I'm still in wait-and-see mode. If nothing changes, I'll look for the Galaxy Tab
