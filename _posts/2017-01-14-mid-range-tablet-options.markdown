@@ -139,3 +139,7 @@ software support gives me pause. If they can prove me wrong, I'll happily recons
 Have comments or suggestions? [Post in this topic's issue](https://github.com/kayakyakr/codepinions/issues/3).
 Want to prove me wrong and prove that your brand's tablet is the best by giving me
 one for review purposes? <a href="mailto:codepinions@dubo.se">codepinions@dubo.se</a>
+
+## Update
+
+I wound up purchasing the Lenovo Yoga Tab 3 Plus. It's got the best combination of power/battery and screen size/resolution, and I found that was what was important to me. It's also important to note that it powers via USB-C, leaving it compatible with the battery packs, should you need one.
